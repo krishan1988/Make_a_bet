@@ -5,7 +5,7 @@ This Project has one api and it has multiple functions .Error codes and Custom v
 Used PHP framework – Laravel (lumen)
 
 Setup the Project 
-• Extract the betSystem.zip file and copy that to server • 
+• Clone the project or download and copy that to your local server • 
 Please find the bet_system.sql inside this folder create database using that or run “php artisan migrate:fresh” 
 • Config the .env file
 • Composer update 
